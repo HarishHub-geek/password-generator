@@ -28,7 +28,7 @@ You will need the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/password-generator.git](https://github.com/YourUsername/password-generator.git)
+    git clone https://github.com/HarishHub-geek/password-generator.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -42,7 +42,8 @@ You will need the following installed:
     ```bash
     # For simple HTML/JS, open index.html in your browser.
     # If using a development server:
-    npm start
+    npm start or
+    npm run dev
     ```
 
 ## 🛠 Usage
@@ -64,7 +65,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**. See `LICENSE` for more information. <br />
+Copyrights &copy; 2025 HarishHub. All Rights Reserved.
 
 ## 📞 Contact
 
